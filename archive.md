@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Drawing Board
 ---
 
 {% for tag in site.tags %}
