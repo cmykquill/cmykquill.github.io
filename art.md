@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts
+title: Art
 ---
 
 {% for tag in site.tags %}
